@@ -13,6 +13,7 @@
 		22D954F51B23FDA30083DB86 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22D954F41B23FDA30083DB86 /* Images.xcassets */; };
 		22D954F81B23FDA30083DB86 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 22D954F61B23FDA30083DB86 /* LaunchScreen.xib */; };
 		22D955041B23FDA30083DB86 /* Ad_LibsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D955031B23FDA30083DB86 /* Ad_LibsTests.swift */; };
+		22D9550E1B2418700083DB86 /* random.png in Resources */ = {isa = PBXBuildFile; fileRef = 22D9550D1B2418700083DB86 /* random.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		22D954FD1B23FDA30083DB86 /* Ad LibsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Ad LibsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		22D955021B23FDA30083DB86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		22D955031B23FDA30083DB86 /* Ad_LibsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ad_LibsTests.swift; sourceTree = "<group>"; };
+		22D9550D1B2418700083DB86 /* random.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = random.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		22D954EB1B23FDA30083DB86 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				22D9550D1B2418700083DB86 /* random.png */,
 				22D954EC1B23FDA30083DB86 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +197,7 @@
 			files = (
 				22D954F31B23FDA30083DB86 /* Main.storyboard in Resources */,
 				22D954F81B23FDA30083DB86 /* LaunchScreen.xib in Resources */,
+				22D9550E1B2418700083DB86 /* random.png in Resources */,
 				22D954F51B23FDA30083DB86 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
